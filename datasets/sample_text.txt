@@ -1,0 +1,3 @@
+this python sample program
+this is a sample text
+python django course

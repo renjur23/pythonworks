@@ -1,0 +1,13 @@
+https://www.apple.com: A URL that points to a website's homepage 
+ 
+http://www.example.com/index.html: A URL that includes a protocol, hostname, and file name 
+ 
+https://websitebuilders.com: A URL example 
+ 
+https://www.facebook.com/Learn-the-Net-330002341216/: A URL example 
+ 
+ftp://aeneas.mit.edu/: A URL example 
+ 
+https://en.wikipedia.org/wiki/Internet#Terminology: A URL example 
+ 
+https://cloudflare.com/learning/: A URL that includes a domain name, protocol, and path to a specific page

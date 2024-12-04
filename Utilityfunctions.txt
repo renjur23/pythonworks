@@ -1,0 +1,3 @@
+functions
+
+bulitin function --> print(),input(),type(),round(),max(),min()
